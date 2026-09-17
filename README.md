@@ -1,19 +1,16 @@
 # Code Print Manager
 
-**Latest version: v1.0.2** (2026-09-17)
+**Latest version: v1.0.3** (2026-09-17)
 
 ## Download
 
-**[Download Code Print Manager v1.0.2 (Installer)](https://github.com/AniC12/codeprintmanager-releases/releases/latest/download/CodePrintManager-win-Setup.exe)** - recommended, receives automatic updates.
+**[Download Code Print Manager v1.0.3](https://github.com/AniC12/codeprintmanager-releases/releases/latest/download/CodePrintManager-win-Setup.exe)**
 
-Run the installer, then launch the app from the Start Menu. The installer places a launcher named
-`CodePrintManager.exe` in `%LocalAppData%\CodePrintManager` - always use that one, not the
-`current\CodePrintManager.Desktop.exe` inside it (that folder is replaced on every update).
+Run the installer and launch **Code Print Manager** from the Start Menu. No administrator
+rights are required, and the application updates itself from then on.
 
-[Portable ZIP](https://github.com/AniC12/codeprintmanager-releases/releases/latest/download/CodePrintManager-win-Portable.zip) - extract and run `CodePrintManager.Desktop.exe`. No installation, but no automatic updates.
-
-Your database, backups and logs are stored in `%LocalAppData%\CodePrintManagerData` for installed
-builds, or alongside the executable for the portable version. Updates never touch them.
+The program is always called `CodePrintManager.exe`. Your database, backups and logs are
+kept separately in `%LocalAppData%\CodePrintManagerData`, so updates never touch them.
 
 ## All releases
 
