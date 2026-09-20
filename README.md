@@ -1,10 +1,10 @@
 # Code Print Manager
 
-**Latest version: v1.1.1** (2026-09-20)
+**Latest version: v1.1.2** (2026-09-20)
 
 ## Download
 
-**[Download Code Print Manager v1.1.1](https://github.com/AniC12/codeprintmanager-releases/releases/latest/download/CodePrintManager-win-Setup.exe)**
+**[Download Code Print Manager v1.1.2](https://github.com/AniC12/codeprintmanager-releases/releases/latest/download/CodePrintManager-win-Setup.exe)**
 
 Run the installer and launch **Code Print Manager** from the Start Menu. No administrator
 rights are required, and the application updates itself from then on.
